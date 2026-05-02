@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Analysis
 
 > **End-to-end data analysis project** — data generation, SQL querying, Python EDA, and an interactive Power BI–style dashboard.  
-> Built by **Shinoy Babru** · [LinkedIn](https://www.linkedin.com/in/shinoy-babru-2000) · [GitHub](https://github.com/shinoybabru)
+> Built by **Shinoy Babru** · [LinkedIn](https://www.linkedin.com/in/shinoy-babru-2000) · [GitHub](https://github.com/shinoybabru) · [GitHub](https://docs.google.com/document/d/140lobScKEY494wDt8RlpeEKaWef0SP9KjYXgJII76Yo/edit?usp=drive_link) 
 
 ---
 
